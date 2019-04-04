@@ -1,0 +1,33 @@
+html{
+	height: 100%;
+}
+body{
+	margin: 0
+	padding:0;
+	height: 100%;
+}
+.container{
+	width: 96vw;
+	/*height: 100vh;*/
+	/*height: 100%;*/
+	margin: 0 auto;
+	background-color: yellow;
+}
+.box1{
+	float: left;
+	width: 30vw;
+	height: 30vw;
+	background-color: orange;
+	border-radius: 10%;
+	margin: 1vw;
+}
+
+.box2{
+	clear: left;
+	float: left;
+	width: 30vw;
+	height: 30vw;
+	background-color: orange;
+	border-radius: 10%;
+	margin: 1vw;
+}
